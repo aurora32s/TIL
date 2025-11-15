@@ -6,7 +6,7 @@
 | 카테고리 | 주제 | 진행 상황 | 비고 |
 |---|---|---|---|
 | 백엔드 | 9개 도메인 프로젝트로 끝내는 백엔드 웹 개발 (Java/Spring) 강의 | 진행 중 | |
-| Android | Android Manifest 도서 | 완료 | |
+| Android | Android Manifest 도서 | 진행 중 | |
 
 ## 2025년
 
